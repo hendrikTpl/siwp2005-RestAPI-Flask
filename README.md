@@ -3,10 +3,10 @@
 # [SIWP2005]_PBO_Building REST API with Flask
 
 ## Topic 1 How to Get started
-please go to this Topics 
+please go to this docs 
 
 ## Building CRUD and Connect with DB
-
+please go to this docs
 
 ## OpenAPI
 
