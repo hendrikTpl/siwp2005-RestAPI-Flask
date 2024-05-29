@@ -1,0 +1,6 @@
+Flask
+pymongo
+# Flask-PyMongo
+db-sqlite3
+Flask-Cors
+
